@@ -1,4 +1,4 @@
-﻿# Mike Jarboe
+# Mike Jarboe
 
 AV design and solutions engineer. I build free, open-source tools for people
 who design, install and commission AV systems.
