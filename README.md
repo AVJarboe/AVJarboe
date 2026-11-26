@@ -9,8 +9,8 @@ who design, install and commission AV systems.
 
 | Project | What it is |
 |---|---|
-| [av-tools](https://github.com/AVjarboe/av-tools) | Vendor-neutral calculators and documentation generators. Plain HTML, works offline, every formula shown on the page. [Open the tools hub](https://avjarboe.github.io/av-tools/) |
-| [av-pro-skills](https://github.com/AVjarboe/av-pro-skills) | Claude Agent Skills for AV paperwork: scopes of work, commissioning reports, specifications. |
+| [av-tools](https://github.com/AVJarboe/av-tools) | Vendor-neutral calculators and documentation generators. Plain HTML, works offline, every formula shown on the page. [Open the tools hub](https://avjarboe.github.io/av-tools/) |
+| [av-pro-skills](https://github.com/AVJarboe/av-pro-skills) | Claude Agent Skills for AV paperwork: scopes of work, commissioning reports, specifications. |
 
 Everything is MIT licensed. Found a wrong number or a missing case? Open an
 issue on the repo. Corrections are welcome.
