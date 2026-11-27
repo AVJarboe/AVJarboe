@@ -17,8 +17,10 @@ issue on the repo. Corrections are welcome.
 
 ## Changelog
 
-- 2026-11: Both projects started. First release in progress: a Dante/AES67
-  flow and bandwidth planner with a one-page port sheet for IT.
+- 2026-11: Both projects started. Three tools are live on the
+  [tools hub](https://avjarboe.github.io/av-tools/): a 70V/100V line and
+  amplifier load calculator, an equipment list compare, and "Which tool for
+  this?", an index of free calculators by design task.
 
 ---
 
