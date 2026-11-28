@@ -15,13 +15,6 @@ who design, install and commission AV systems.
 Everything is MIT licensed. Found a wrong number or a missing case? Open an
 issue on the repo. Corrections are welcome.
 
-## Changelog
-
-- 2026-11: Both projects started. Three tools are live on the
-  [tools hub](https://avjarboe.github.io/av-tools/): a 70V/100V line and
-  amplifier load calculator, an equipment list compare, and "Which tool for
-  this?", an index of free calculators by design task.
-
 ---
 
 The tools are design aids that give estimates. Check results against
